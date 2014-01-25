@@ -145,3 +145,71 @@ Yukarida yazanlari yaparsan bulabilirsin; yoksa sansina ve baglantilarina bagli.
 ### Bu, Başarılması zor bir durum mu yurtdışında okumadan?
 
 Hayir. Sadece disiplin gerektiren bir is.
+
+## GitHub Kullanmamakta Israrciyim; Sana Bahaneler Hazirladim
+
+Bahane odakli degil, cozum odakli olmalisin. Yoksa yerinde saymaya devam edersin.
+
+> “A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.” &ndash; Denis Waitley 
+
+> “Life begins at the end of your comfort zone.” &ndash; Neale Donald Walsch 
+
+Gelelim blindik birkac banaheye.
+
+### “GitHub’im var da&hellip; oraya koyacak kadar bir proje yazmadim.”
+
+Turkce anlami: “Kodum o kadar dandik ki, birileri gorur de alay eder diye cekiniyorum.”
+
+Uzaya roket gondermiyorsun. Ayrica sen ve “kodun” birbirinden farkli seyler. Kodun icin yapilan yorumlar, kodunu gelistirmen ve   yazilim konusunda ilerlemen icin sana sunulan onerilerdir; sahsina yonelik ithamlar degildir. Ozgur yazilim dunyasinda kimse kisiye yonelik elestiride bulunmaz. &ndash; kodu ise olumune elestirirler. 
+
+> Kodunu ac ki; insanlar sana yardim etsin.
+
+Peki hangi kodu acacaksin? **yazdigin her seyi**.
+
+Duzenli olarak bir seyler calisip, kod yazmiyor musun? 
+
+* Yazdigin kodlari koy.
+* Dusuncelerini ekle.
+* Aklinda olan, fakat nasil yapacagini tam bilmedigin bir projenin taslaklarini ekle.
+* Kisisel web siteni ekle (“kisisel web sitem yok” deme, yersin kizilcik sopasini!)
+* &hellip; daha gider bu.
+
+Kodunu dunya gorecek diye cekinmene, utanmana gerek yok.
+
+**Yaptigin en ufak taslak, en gereksiz kod parcasi bile GitHub uzerinde olsun; va buna _hemen simdi_ basla. Bundan birkac sene sonra bu aldigin karar icin kendine tesekkur edeceksin.**
+
+#### Duzenli olarak katkida bulunamiyorum; cok usengecim.
+
+Canim kardesim; git takvimde bir hatirlatma koy kendine, bes satir olsun yeni bir seyler yaz, kod ekle; test yaz, issue ac, dokumantasyonu duzenle&hellip; &ndash; saatlerini ayirmana gerek yok; gunde onbes dakikani ayir, gerisi gelir zaten.
+
+#### GitHub’in Ne Oldugunu Bilmiyorum
+
+Haklisin, **GitHub**’a Mars'tan erisilemiyor henuz **:)**.
+
+Ne olduguna <https://help.github.com/> adresinden bakabilirsin.
+
+#### Var da, Kullanmayi cozemedim henuz&hellip;
+
+Bilgi caginda, **GitHub** ile ilgili kaynak bulamadim deme.
+
+* https://help.github.com/
+* http://try.github.io/levels/1/challenges/1
+* http://progit.org/book/
+* http://gitimmersion.com/
+* http://git-scm.com/book
+* http://ftp.newartisans.com/pub/git.from.bottom.up.pdf
+* http://www-cs-students.stanford.edu/~blynn/gitmagic/
+* http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/
+* http://vimeo.com/16395537
+* http://marklodato.github.io/visual-git-guide/index-en.html
+
+arastirabilecegin referanslardan birkaci.
+
+### Iyi de&hellip; GitHub tam olarak ne işe yarar?
+
+“Yazilim dunyasinin feysbuku” deyim, sen anla. Aktif **GitHub** kullanmayani dovuyorlar.
+
+### Yardim edecegim cok kod bulamiyorum? nereden baslamaliyim? 
+
+Mesela <https://github.com/search?q=node.js&ref=cmdform> gibi bir arama yapabilirsin. 100 binin uzerinde proje var; birinden birine yardimin gerekebilir. <https://github.com/v0lkan/o2.js/blob/dev/CONTRIBUTE-tr-TR.md> adresinden github projelerinde ne tur seylere yardim edebilecegin hakkinda bir fikrin de olabilir (*her ne kadar **o2.js** dese de, cogu ozgur yazilim projesi icin gecerli seyleri anlatiyor*) &ndash; katkida bulunmak icin cok iyi kod yazabilmen gerekmiyor; hatta kod yazabilmen bile gerekmiyor.
+
