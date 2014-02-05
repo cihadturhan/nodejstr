@@ -129,6 +129,8 @@ Bir kere eger yaptigin isten keyif almiyorsan, ve ogrenciysen ders disinda, cali
 
 Ozetle, yurt disindaki firmalar, kimseyi kara kasina, kara gozune bakip ise almaz. Turkiye (bazilarinin dusundugunun aksina), dorduncu dunya ulkesi oldugu icin; sizinle ayni kalifikasyondaki herhangi bir adaydan on kat daha iyi olmalisiniz ki, yabanci firma sizi secsin. &ndash; ha bunun aksi durumlar olur mu? olabilir. 
 
+(Bu konu hakkında yararlı bir link : http://io.kodfabrik.com/2012/07/28/h1b.html)
+
 ### Yurt disinda yazilim alaninda calismak icin, master yapmam gerekli mi?
 
 Hayir. Akreditasyonu olan bir universitenin bilgisayar ya da Elektrik-Elektronik Muhendisligi lisans programlarindan mezun olman yeterli.
