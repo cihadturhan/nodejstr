@@ -69,6 +69,8 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 * <http://www.youtube.com/watch?v=F6k8lTrAE2g>
 * <http://www.learnallthenodes.com/>
 * <http://nodecasts.net/>
+* <http://net.tutsplus.com/sessions/node-js-step-by-step/>
+* <http://node.codeschool.com/levels/1>
 
 #### Videoloar (JavaScript/Genel)
 
