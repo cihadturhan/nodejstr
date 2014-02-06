@@ -56,7 +56,7 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 
 * (http://bonsaiden.github.io/JavaScript-Garden/)
 
-#### Curated (JavaScript/Genel
+#### Curated (JavaScript/Genel)
 
 * <http://superherojs.com>
 
@@ -208,6 +208,86 @@ Bilgi caginda, **GitHub** ile ilgili kaynak bulamadim deme.
 * http://marklodato.github.io/visual-git-guide/index-en.html
 
 arastirabilecegin referanslardan birkaci.
+
+#### Bu Projeyi (nodejstr) Klonladim, Ardindan Bir Seyler Ekledim; Simdi Ne Yapmaliyim?
+
+Adim adim anlatalim.
+
+##### Forklama
+
+* <https://github/v0lkan/nodejstr/> adresine gidip;
+* **Fork** butonuna tikla.
+
+Bu islem, senin icin reponun bir kopyasini olusturacaktir.
+
+
+##### Klonlama
+
+Kendi calisma ortaminda
+
+~~~
+git clone git@github.com:{senin-github-kullanici-adin}/nodejstr.git
+cd nodejstr
+git checkout -b master origin/master
+~~~
+
+##### Topic Branch
+
+Kendine bir konu dali olustur:
+
+~~~
+git branch YeniLinklerEkleniyor
+git checkout YeniLinklerEkniyor
+~~~
+
+Ardindan en sevdigin editoru kullanip, neleri degistirmek istiyorsan degistir; istersen yeni seyler ekle.
+
+##### master ile birles
+
+~~~
+git checkout master
+git merge YeniLinklerEkleniyor
+git branch -D YeniLinklerEkleniyor
+~~~
+
+Artik yerel master branch'ini remote'a push edebilirsin.
+
+##### Push
+
+~~~
+git push origin master
+~~~
+
+##### Upstream Ekleme
+
+Muhtemelen bu repoda olan yenilikleri de zaman zaman calisma ortamina almak isteyeceksin.
+
+Onun icin bir "upstream" tanimlamalisin:
+
+~~~
+git remote add upstream git@github.com:v0lkan/nodejstr.git
+~~~
+
+##### Bir Pull Request Olustur
+
+Sana ait repository sayfasindaki **pull** butonuna tiklayip bir pull request olustur.
+
+
+##### Yeni degisiklikleri Yerel Repona Cek
+
+**pull** request'in kabul edildikten sonra projenin son halini almak isteyebilirsin:
+
+~~~
+$ git checkout master
+$ git fetch upstream
+$ git merge upstream/master
+$ git push origin master
+~~~
+
+Boylelikle senin yerel kodun; klonladigin repo; ve buradaki **nodejstr** reposu senkronize olmus olur.
+
+
+> **Not:** *Konuyla ilgili <https://github.com/v0lkan/o2.js/blob/dev/CONTRIBUTE.md> dosyasinda benzer bir use-case bulabilirsin.*
 
 ### Iyi de&hellip; GitHub tam olarak ne işe yarar?
 
