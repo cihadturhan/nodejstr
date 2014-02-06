@@ -242,6 +242,14 @@ git checkout YeniLinklerEkniyor
 
 Ardindan en sevdigin editoru kullanip, neleri degistirmek istiyorsan degistir; istersen yeni seyler ekle.
 
+#####  Değişiklikleri Commit et
+Yaptığın değişiklikleri commit et. 
+
+~~~
+git add .
+git commit -m 'Yapılan değişikliklerin özeti'
+~~~
+
 ##### master ile birles
 
 ~~~
