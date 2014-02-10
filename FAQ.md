@@ -110,6 +110,7 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 * <https://aws.amazon.com/marketplace/pp/B008ASK0ZE/>
 * <http://bitnami.com/>
 * <http://www.joyent.com/>
+* <http://rackspace.com> ( <http://rackspace.com/developers> adresinden 6 ay ucretsiz kullanim da elde edebilirsiniz )
 
 ### Uzun vadeli hedeflerim arasinda yurt disinda yazilim sektorunde calismak var; neler onerirsiniz?
 
