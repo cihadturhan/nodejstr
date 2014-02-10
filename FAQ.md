@@ -23,6 +23,7 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 * <http://www.amazon.de/dp/389864829X>
 * <http://nodejsbook.io/>
 * <http://book.mixu.net/node/index.html>
+* <https://leanpub.com/jsfun/read>
 
 #### Kitaplar (JavaScript/Genel)
 
