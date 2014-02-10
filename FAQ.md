@@ -72,6 +72,8 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 * <http://nodecasts.net/>
 * <http://net.tutsplus.com/sessions/node-js-step-by-step/>
 * <http://node.codeschool.com/levels/1>
+* <http://build-podcast.com/node/>
+
 
 #### Videoloar (JavaScript/Genel)
 
@@ -103,6 +105,8 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 * <http://documentcloud.github.io/underscore/>
 * <http://visionmedia.github.io/mocha/>
 * <http://vowsjs.org/>
+* <http://gulpjs.com/>
+* <http://browserify.org/>
 
 #### Hosting Platformlari
 
@@ -112,6 +116,11 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 * <http://bitnami.com/>
 * <http://www.joyent.com/>
 * <http://rackspace.com> ( <http://rackspace.com/developers> adresinden 6 ay ucretsiz kullanim da elde edebilirsiniz )
+* <https://www.c9.io/>
+* <https://www.digitalocean.com/>
+* <https://www.appfog.com/>
+* <https://www.nodejitsu.com/>
+* <https://www.nitrous.io/>
 
 ### Uzun vadeli hedeflerim arasinda yurt disinda yazilim sektorunde calismak var; neler onerirsiniz?
 
@@ -208,6 +217,8 @@ Bilgi caginda, **GitHub** ile ilgili kaynak bulamadim deme.
 * http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/
 * http://vimeo.com/16395537
 * http://marklodato.github.io/visual-git-guide/index-en.html
+* http://build-podcast.com/git/
+* http://build-podcast.com/github/
 
 arastirabilecegin referanslardan birkaci.
 
