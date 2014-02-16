@@ -2,6 +2,9 @@
 
 Asagida grupta cok sorulan sorulari derliyorum. Belgeye katkida bulunmak istiyorsaniz lutfen forklayip pull request gonderin. Ne kadar cok kisinin gorusu olursa, o kadar guzel bir sey cikar ortaya.
 
+### Burasi Gibi, Guzel Oneri ve Linklerin Toplandigi Faydalanabilecegim Baska Repository'ler Var Mi? (Dil Farketmez)
+
+* <https://github.com/v0lkan/injavawetrust/blob/master/FAQ.md> adresine de bakabilirsin. Orada olup burada olmayan cok sey var.
 
 ### **Node.JS** Ogrenmek Istiyorum, Nereden Baslamaliyim?
 
@@ -122,6 +125,7 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 * <https://www.nodejitsu.com/>
 * <https://www.nitrous.io/>
 * <https://modulus.io/>
+* <http://prgmr.com/xen/plans.html>
 
 ### Uzun vadeli hedeflerim arasinda yurt disinda yazilim sektorunde calismak var; neler onerirsiniz?
 
@@ -137,11 +141,15 @@ Bir kere eger yaptigin isten keyif almiyorsan, ve ogrenciysen ders disinda, cali
 * Insan iliskileri her zaman onemlidir: Calismak istedigin yerler nereleri ise, emin ol bir yerlerinde bir Turk calisan vardir; onlara ulas; o anki islerine nasil girdiklerini sor.
 * Is aramak icin, fiziksel olarak is arayacagin ulkede olman ciddi fark yaratir. Mesela 10 senelik bir Amerika turist vizen varsa (B1/B2), bu vize senin bir seneye kadar Amerika'da kalmani saglar; once boyle bir vize olup, ardindan sana 5-6 ay yetecek kadar para biriktirip, hem tatilini yapip, hem de is gorusmesi yapabilirsin. &ndash; Eger yukarida yazanlari da yaptiysan buyuk ihtimal bir is bulursun. Isverenin seni skype'tan gormesi ile yuz yuze gormesi arasinda ciddi fark olur.
 * Corollary: Mumkun oldugunca fazla is mulakatina gir (yabanci firmalarla); hem deneyim olur, hem mulaktlarda neler soruluyor bir fikir sahibi olursun, hem de eksiklerini ogrenir, ve bu yonde kendini gelistirirsin;
-* Amerika icin <dvlottery.state.gov> diye bir cekilis var her sene yapilan; cogu kisi bilmedigi icin basvurmuyor, her sene 15 dakikani ayirip 4-5 soruluk dandik bir formu doldurursan, sana green card cikma ihtimali olabilir.
+* Amerika icin <http://dvlottery.state.gov> diye bir cekilis var her sene yapilan; cogu kisi bilmedigi icin basvurmuyor, her sene 15 dakikani ayirip 4-5 soruluk dandik bir formu doldurursan, sana green card cikma ihtimali olabilir.
 
-Ozetle, yurt disindaki firmalar, kimseyi kara kasina, kara gozune bakip ise almaz. Turkiye (bazilarinin dusundugunun aksina), dorduncu dunya ulkesi oldugu icin; sizinle ayni kalifikasyondaki herhangi bir adaydan on kat daha iyi olmalisiniz ki, yabanci firma sizi secsin. &ndash; ha bunun aksi durumlar olur mu? olabilir. 
+Ozetle, yurt disindaki firmalar, kimseyi kara kasina, kara gozune bakip ise almaz. Turkiye (bazilarinin dusundugunun aksina), dorduncu dunya ulkesi oldugu icin; sizinle ayni kalifikasyondaki herhangi bir adaydan on kat daha iyi olmalisiniz ki, yabanci firma sizi secsin. &ndash; ha bunun aksi durumlar olur mu? olabilir.
 
-(Bu konu hakkında yararlı bir link : http://io.kodfabrik.com/2012/07/28/h1b.html)
+Konuyla ilgili su yazilar da ilgini cekebilir:
+
+* [Ozgur Kaynakli Projelere Nasil Katkida Bulunurum](https://gist.github.com/v0lkan/7766288)
+* [Egitim Sart](https://gist.github.com/v0lkan/3384937)
+* [Yazilim Gelistirici Olarak ABD'de Calisma Vizesi Almak](http://io.kodfabrik.com/2012/07/28/h1b.html)
 
 ### Yurt disinda yazilim alaninda calismak icin, master yapmam gerekli mi?
 
@@ -162,13 +170,13 @@ Yukarida yazanlari yaparsan bulabilirsin; yoksa sansina ve baglantilarina bagli.
 
 Hayir. Sadece disiplin gerektiren bir is.
 
-## GitHub Kullanmamakta Israrciyim; Sana Bahaneler Hazirladim
+### GitHub Kullanmamakta Israrciyim; Sana Bahaneler Hazirladim
 
 Bahane odakli degil, cozum odakli olmalisin. Yoksa yerinde saymaya devam edersin.
 
-> “A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.” &ndash; Denis Waitley 
+> “A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.” &ndash; Denis Waitley
 
-> “Life begins at the end of your comfort zone.” &ndash; Neale Donald Walsch 
+> “Life begins at the end of your comfort zone.” &ndash; Neale Donald Walsch
 
 Gelelim blindik birkac banaheye.
 
@@ -176,13 +184,13 @@ Gelelim blindik birkac banaheye.
 
 Turkce anlami: “Kodum o kadar dandik ki, birileri gorur de alay eder diye cekiniyorum.”
 
-Uzaya roket gondermiyorsun. Ayrica sen ve “kodun” birbirinden farkli seyler. Kodun icin yapilan yorumlar, kodunu gelistirmen ve   yazilim konusunda ilerlemen icin sana sunulan onerilerdir; sahsina yonelik ithamlar degildir. Ozgur yazilim dunyasinda kimse kisiye yonelik elestiride bulunmaz. &ndash; kodu ise olumune elestirirler. 
+Uzaya roket gondermiyorsun. Ayrica sen ve “kodun” birbirinden farkli seyler. Kodun icin yapilan yorumlar, kodunu gelistirmen ve   yazilim konusunda ilerlemen icin sana sunulan onerilerdir; sahsina yonelik ithamlar degildir. Ozgur yazilim dunyasinda kimse kisiye yonelik elestiride bulunmaz. &ndash; kodu ise olumune elestirirler.
 
 > Kodunu ac ki; insanlar sana yardim etsin.
 
 Peki hangi kodu acacaksin? **yazdigin her seyi**.
 
-Duzenli olarak bir seyler calisip, kod yazmiyor musun? 
+Duzenli olarak bir seyler calisip, kod yazmiyor musun?
 
 * Yazdigin kodlari koy.
 * Dusuncelerini ekle.
@@ -208,6 +216,8 @@ Ne olduguna <https://help.github.com/> adresinden bakabilirsin.
 
 Bilgi caginda, **GitHub** ile ilgili kaynak bulamadim deme.
 
+* http://www.youtube.com/watch?v=zdq2BoBbbkw
+* http://guides.github.com/overviews/flow/
 * https://help.github.com/
 * http://try.github.io/levels/1/challenges/1
 * http://progit.org/book/
@@ -257,7 +267,7 @@ git checkout YeniLinklerEkniyor
 Ardindan en sevdigin editoru kullanip, neleri degistirmek istiyorsan degistir; istersen yeni seyler ekle.
 
 #####  Değişiklikleri Commit et
-Yaptığın değişiklikleri commit et. 
+Yaptığın değişiklikleri commit et.
 
 ~~~
 git add .
@@ -315,7 +325,7 @@ Boylelikle senin yerel kodun; klonladigin repo; ve buradaki **nodejstr** reposu 
 
 “Yazilim dunyasinin feysbuku” deyim, sen anla. Aktif **GitHub** kullanmayani dovuyorlar.
 
-### Yardim edecegim cok kod bulamiyorum? nereden baslamaliyim? 
+### Yardim edecegim cok kod bulamiyorum? nereden baslamaliyim?
 
 Mesela <https://github.com/search?q=node.js&ref=cmdform> gibi bir arama yapabilirsin. 100 binin uzerinde proje var; birinden birine yardimin gerekebilir. <https://github.com/v0lkan/o2.js/blob/dev/CONTRIBUTE-tr-TR.md> adresinden github projelerinde ne tur seylere yardim edebilecegin hakkinda bir fikrin de olabilir (*her ne kadar **o2.js** dese de, cogu ozgur yazilim projesi icin gecerli seyleri anlatiyor*) &ndash; katkida bulunmak icin cok iyi kod yazabilmen gerekmiyor; hatta kod yazabilmen bile gerekmiyor.
 
