@@ -126,6 +126,7 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 * <https://www.nitrous.io/>
 * <https://modulus.io/>
 * <http://prgmr.com/xen/plans.html>
+* <https://github.com/joyent/node/wiki/node-hosting>
 
 ### Uzun vadeli hedeflerim arasinda yurt disinda yazilim sektorunde calismak var; neler onerirsiniz?
 
