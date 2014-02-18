@@ -78,7 +78,7 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 * <http://build-podcast.com/node/>
 
 
-#### Videoloar (JavaScript/Genel)
+#### Videolar (JavaScript/Genel)
 
 * <http://yuiblog.com/crockford/>
 
@@ -88,7 +88,7 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 * <https://nodejsmodules.org/>
 * <http://www.freshblurbs.com/articles/important-node-js-modules.html>
 
-#### Yararali Frameworkler ve Hizmetler
+#### Yararli Frameworkler ve Hizmetler
 
 * <http://socket.io/>
 * <http://expressjs.com/>
