@@ -27,28 +27,36 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 * <http://nodejsbook.io/>
 * <http://book.mixu.net/node/index.html>
 * <https://leanpub.com/jsfun/read>
+* <https://leanpub.com/rapid-prototyping-with-js/read>
+* <https://leanpub.com/express/read>
 
 #### Kitaplar (JavaScript/Genel)
 
 * <http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/>
 * <http://shop.oreilly.com/product/9780596806767.do>
 * <http://shop.oreilly.com/product/9780596517748.do>
+* <https://leanpub.com/oopinjavascript/read>
+* <https://leanpub.com/ohmyjs/read>
 
 #### Bloglar (Node.JS)
 
 * <http://howtonode.org/>
 * <http://blog.nodejs.org/>
 * <http://blog.nodejitsu.com/>
+* <http://nodeweekly.com/>
 
 #### API Docs
 
 * <http://nodejs.org/api/index.html>
+* <http://devdocs.io/node/>
 
 #### Bloglar (JavaScript/Genel)
 
 * <http://dailyjs.com/>
 * <http://www.devthought.com/>
 * <http://o2js.com/>
+* <http://http://javascriptweekly.com/>
+* <http://javascriptissexy.com/>
 
 #### Tutoriallar (Node.JS)
 
@@ -92,6 +100,7 @@ Node.JS Ogrenmek icin pek cok kaynak var. Birkac oneri:
 
 * <http://socket.io/>
 * <http://expressjs.com/>
+* <http://koajs.com/>
 * <http://mongoosejs.com/>
 * <http://logio.org/>
 * <https://github.com/isaacs/node-supervisor>
