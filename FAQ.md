@@ -4,7 +4,7 @@ Asagida grupta cok sorulan sorulari derliyorum. Belgeye katkida bulunmak istiyor
 
 ### Burasi Gibi, Guzel Oneri ve Linklerin Toplandigi Faydalanabilecegim Baska Repository'ler Var Mi? (Dil Farketmez)
 
-* <https://github.com/v0lkan/injavawetrust/blob/master/FAQ.md> adresine de bakabilirsin. Orada olup burada olmayan cok sey var.
+* https://github.com/alparslan3806/injavawetrust/blob/master/FAQ.md adresine de bakabilirsin. Orada olup burada olmayan cok sey var.
 
 ### **Node.JS** Ogrenmek Istiyorum, Nereden Baslamaliyim?
 
